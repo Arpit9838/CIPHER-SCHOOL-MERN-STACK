@@ -1,0 +1,5 @@
+git --user
+git --version
+pwd
+cd GIT
+git init
