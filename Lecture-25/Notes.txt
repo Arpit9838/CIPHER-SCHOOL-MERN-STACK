@@ -1,0 +1,7 @@
+127.0.0.1.3000
+req=www.abc.com
+
+frontend server
+
+home signup -> request -> backend -> database  
+home signup <- reponse <- message <- database
