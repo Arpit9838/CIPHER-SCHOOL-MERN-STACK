@@ -1,0 +1,7 @@
+React strict mode 
+what is an multipage and single page application 
+metflix uses react 
+singlePage application - donot have to reload the page again and again
+multipage application -  does reload the page again and again
+
+props - passing data from one component to the other 
