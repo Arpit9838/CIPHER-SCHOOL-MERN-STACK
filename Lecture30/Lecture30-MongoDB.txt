@@ -1,0 +1,15 @@
+//Intro To MongoDb
+What is MongoDB?
+MongoDB is a document-oriented database, which means it stores data in JSON-like documents with dynamic schemas (known as BSON, Binary JSON). This differs from traditional relational databases that store data in tables with a predefined schema.
+
+Key Features of MongoDB:
+1 Schemaless Design: MongoDB does not require a predefined schema, allowing for flexible document structures within a collection.
+2 High Scalability: MongoDB supports horizontal scaling through sharding, distributing data across multiple servers, making it suitable for large-scale applications.
+3 Rich Query Language: MongoDB's query language supports complex queries, indexing, and aggregation operations to manipulate and retrieve data efficiently.
+4 Document-Oriented: Data in MongoDB is stored in collections, which contain documents. A document is a set of key-value pairs and is analogous to a row in a relational database.
+5 JSON/BSON Format: MongoDB stores data in BSON (Binary JSON), which is a binary-encoded serialization of JSON-like documents. This allows MongoDB to efficiently store and access data.
+6 Replication and High Availability: MongoDB supports replica sets for automatic failover and data redundancy, ensuring high availability of data.
+
+//webflow from frntend to backend
+//Layers buisness logic, Service layer, Data layer
+//MVC MOdel View Controller
