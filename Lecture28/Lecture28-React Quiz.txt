@@ -1,0 +1,11 @@
+SOAP architecture - xml based
+Rest- Representational State Transfer  - JSON based
+API - application program interface (endpoint) program handling request
+Http Methods 
+Get 
+Post 
+Put
+Patch
+Delete
+
+
