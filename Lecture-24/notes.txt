@@ -1,0 +1,14 @@
+intodunction to Node.js
+Backend: Brain of the website
+
+Standard:  single reponsibility principle 
+
+Backend Technologies
+Java 
+Ruby 
+PHP 
+Python
+Javascript 
+
+
+download Node.js
