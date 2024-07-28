@@ -1,0 +1,29 @@
+ReactDOM library
+
+DOM = document object model 
+DOM properties 
+dcocument.URL
+
+HTML
+head            body
+    h1      p
+
+
+Virtual DOM
+HTML
+head        body
+    h1              p
+
+            div
+
+
+render(<Textarea>)
+
+
+document.createEelenet('textarea)
+
+ReactDOM.render('<Textarea>',
+document.getElementbyId('root))
+
+
+document.append()
